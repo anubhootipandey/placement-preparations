@@ -20,7 +20,7 @@ If you are looking to make your first open source contribution, follow the steps
   -->git status
         If you go to the project directory and execute the command git status, you'll see there are changes.
   -->Now commit those changes using the git commit command:
-        git commit -m "your comment"
+        git commit -m "description of changes"
   -->Push your changes using the command git push:
         git push -u origin your-branch-name
         replacing your-branch-name with the name of the branch you created earlier.

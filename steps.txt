@@ -1,0 +1,15 @@
+************STEPS INVOLVE IN OPEN SOURCE CONTRIBUTION****************
+
+                            *FIND A PROJECT*
+                            *FORK THE REPOSITORY*
+                            *CLONE THE REPOSITORY*
+                            *CREATE A BRANCH*--- (git checkout -b[branch name])
+                            *MAKE CHANGES*
+                            *ADD OR STAGE FILES*
+                            *COMMIT CHANGES*--- (git add .  and git commit -m "description of changes")
+                            *PUSH CHANGES*--- (git push -u origin [branch name])
+                            *CREATE PULL REQUEST(PR)*
+                            *DESCRIBE CHANGES AND SUBMIT PR*
+                            *FEEDBACK*
+                            *MAKE CHANGES*
+                            *PR MERGE*
