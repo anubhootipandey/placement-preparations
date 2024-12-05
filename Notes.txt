@@ -1,1 +1,3 @@
-We have to add React native and Angular notes
+
+ADD REACT native
+ADD ANGULAR
