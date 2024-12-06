@@ -1,3 +1,4 @@
 
-ADD REACT native
-ADD ANGULAR
+
+-----We have to add react native notes
+-----and angular js notes
