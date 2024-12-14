@@ -1,4 +1,0 @@
-react native
-angular notes 
-redux notes
-nodejs notes
