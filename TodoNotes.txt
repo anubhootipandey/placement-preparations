@@ -1,4 +1,0 @@
-------------------------------Todos -------------------------------
-
-1. Add react native notes and cheatsheets
-2. Add angular notes and cheatsheet
